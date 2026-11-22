@@ -34,7 +34,20 @@
 
 ## 许可
 
-MIT License，见 [LICENSE](LICENSE)。音标表图形的版权归 International Phonetic Association / ICPLA 所有，仅作教学引用。
+- 本页面代码（HTML / CSS / JS）以 **MIT License** 释出，见 [LICENSE](LICENSE)。
+- 内嵌字体的版权与许可见下节。
+
+## 第三方资源
+
+| 资源 | 版权 / 许可 |
+|---|---|
+| Charis SIL 字体 | © SIL International，SIL Open Font License 1.1 |
+| 思源宋体 Source Han Serif（SC / JP / KR，子集化后内嵌） | © Adobe，SIL Open Font License 1.1 |
+| 国际音标表（中文版，2005 修订） | © 国际语音学协会；中译 © 中国语言学会 |
+| 国际音标表（IPA Kiel 版） | © International Phonetic Association |
+| extIPA Symbols for Disordered Speech（2025） | © ICPLA |
+
+字体按 SIL OFL 1.1 允许子集化与再分发，许可证全文见 <https://openfontlicense.org>。三张音标表图形版权归各自权利人，此处仅作教学引用，不再以 MIT 授权。
 
 ---
 
